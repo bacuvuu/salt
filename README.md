@@ -23,3 +23,4 @@ salt-ssh '*' -r 'wget -O - https://github.com/saltstack/salt-bootstrap/releases/
 ```bash
 salt \* test.ping
 ```
+#### line from `add-feature` branch
